@@ -19,7 +19,7 @@ tags: [Spring, DB]
 blockquote {
   display: block;
   background-color: #f8f9fa;
-  color: #000000;
+  color: #000080;
 }
 </style>
 
