@@ -2,8 +2,8 @@
 title: (Docker) Mariadb 시작하기
 date: 2023-10-03 00:00:00 +0900
 lastmod: 2023-10-03 00:00:00 +0900
-categories: [Docker, Mariadb]
-tags: [Docker, Mariadb]
+categories: [Docker, DB]
+tags: [Docker, DB]
 ---
 
 <style>
