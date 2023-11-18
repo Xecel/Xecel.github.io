@@ -70,6 +70,7 @@ spring:
 
 // User.java
 
+@Data
 @Entity(name = "User")
 public class User {
     @Id
@@ -89,6 +90,7 @@ public class User {
 
 // UserRepository.java
 
+@Repository
 public interface UserRepository extends JpaRepository<User, Long> {
 }
 
